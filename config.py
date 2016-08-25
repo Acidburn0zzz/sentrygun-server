@@ -5,7 +5,7 @@ Author: Gabriel Ryan
 Email:  gryan@gdssecurity.com
 Source: http://github.com/s0lst1c3/sentrygun_server
 
-Description: Flask config file
+Description: Flask configuration file
 
 '''
 
